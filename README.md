@@ -17,4 +17,4 @@ My education: Secondary in information security and Higher in computer science.
 (def preffered-lang ["php" "python" "js"])
 ```
 
-https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://www.codewars.com/users/Scrodinger-code/badges/large
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=forest)
