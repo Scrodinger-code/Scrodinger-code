@@ -17,4 +17,4 @@ My education: Secondary in information security and Higher in computer science.
 (def preffered-lang ["php" "python" "js"])
 ```
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Scrodinger-code?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Scrodinger-code?theme=dark,border_radius=10)
