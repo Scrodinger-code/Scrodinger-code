@@ -18,4 +18,4 @@ My education: Secondary in information security and Higher in computer science.
 ```
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Scrodinger-code?theme=dark)
-![Code_Wars]([https://leetcard.jacoblin.cool/Scrodinger-code?theme=dark](https://www.codewars.com/users/Scrodinger-code/badges/large)
+![Code_Wars]([https://leetcard.jacoblin.cool/Scrodinger-code?theme=dark](https://www.codewars.com/users/Scrodinger-code/badges/large))
