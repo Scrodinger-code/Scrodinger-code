@@ -16,5 +16,3 @@ My education: Secondary in information security and Higher in computer science.
 ```clojure
 (def preffered-lang ["php" "python" "js"])
 ```
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Scrodinger-code?theme=dark)
