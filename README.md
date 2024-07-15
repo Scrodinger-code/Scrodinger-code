@@ -21,7 +21,7 @@ My education: Secondary in information security and Higher in computer science.
 ## Database
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/sqlite-AFEEEE?style=for-the-badge&logo=sqlite&labelColor=black&color=AFEEEE)
+![](https://img.shields.io/badge/sqlite-191970?style=for-the-badge&logo=sqlite&logocolor=white)
 ![](https://img.shields.io/badge/mysql-AFEEEE?style=for-the-badge&logo=mysql&color=white)
 
 
