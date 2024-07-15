@@ -3,7 +3,7 @@ I'm a Developer.
 
 My education: Secondary in information security and Higher in computer science.
 
-## My tech stack
+## Languages and Tools
 
 ![](https://img.shields.io/badge/PHP-7B68EE?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white)
