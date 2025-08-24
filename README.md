@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Software Developer.
+ I'm a Software Developer.
 
 ---
 
@@ -14,8 +14,9 @@ My education: Secondary in information security and Higher in computer science.
 ## Framework
 
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/FLASK-00008B?style=for-the-badge&logo=flask&color=008080)
+![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![](https://img.shields.io/badge/FASTAPI-00008B?style=for-the-badge&logo=fastapi&color=white)
+![](https://img.shields.io/badge/FLASK-00008B?style=for-the-badge&logo=flask&color=008080)
 
 ## Database
 
@@ -29,7 +30,7 @@ My education: Secondary in information security and Higher in computer science.
 ![](https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
