@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm a Software Developer.
+I'm a Software Developer.
 
 ---
 
@@ -21,6 +21,7 @@ My education: Secondary in information security and Higher in computer science.
 ## Database
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-191970?style=for-the-badge&logo=sqlite&logocolor=white)
 ![](https://img.shields.io/badge/mysql-B0C4DE?style=for-the-badge&logo=mysql&logocolor=white)
 
