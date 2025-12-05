@@ -3,7 +3,7 @@ I'm a Software Engineer with background in information security and computer sci
 
 ### Tech Stack
 
-<img src="https://img.icons8.com/fluency/48/code.png" width="20" style="vertical-align: middle;"/> <span style="color:#6DB33F; vertical-align: middle;">**Backend Development**</span>
+<span style="color:#6DB33F">**Backend Development**</span>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -12,14 +12,14 @@ I'm a Software Engineer with background in information security and computer sci
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-<img src="https://img.icons8.com/fluency/48/database.png" width="20" style="vertical-align: middle;"/> <span style="color:#316192; vertical-align: middle;">**Data & Databases**</span>
+<span style="color:#FF6B35">**Data & Databases**</span>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-<img src="https://img.icons8.com/fluency/48/settings.png" width="20" style="vertical-align: middle;"/> <span style="color:#2496ED; vertical-align: middle;">**Infrastructure & Tools**</span>
+<span style="color:#7B68EE">**Infrastructure & Tools**</span>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
