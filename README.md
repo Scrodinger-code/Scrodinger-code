@@ -9,6 +9,7 @@ I'm a Software Engineer with background in information security and computer sci
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat&logo=micro&logoColor=white)
 
 <span style="color:#FF6B35">**Data & Databases**</span>
 
@@ -16,7 +17,12 @@ I'm a Software Engineer with background in information security and computer sci
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+<span style="color:#F39C12">**Monitoring & Observability**</span>
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 
 <span style="color:#7B68EE">**Infrastructure & Tools**</span>
 
