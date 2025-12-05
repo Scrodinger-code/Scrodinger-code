@@ -1,8 +1,6 @@
 ## Hi there
 I'm a Software Engineer with background in information security and computer science.
 
----
-
 <span style="color:#6DB33F">**Backend Development**</span>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
