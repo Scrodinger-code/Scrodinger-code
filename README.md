@@ -1,7 +1,7 @@
 ## Hi there
 I'm a Software Engineer with background in information security and computer science.
 
-### Tech Stack
+---
 
 <span style="color:#6DB33F">**Backend Development**</span>
 
